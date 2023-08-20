@@ -1,0 +1,5 @@
+resources:
+  limits: &limits
+     cpu: 100m
+     memory: 128Mi
+  requests: *limits

@@ -1,0 +1,2 @@
+# nginx_chart_version = "15.1.4"
+# nginx_release_namespace = "nginx"
